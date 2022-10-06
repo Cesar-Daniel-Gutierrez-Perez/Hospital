@@ -19,7 +19,7 @@
         nombres: <input type="text" name = "Nombres"> <br/>
         sexo: <input type="text" name = "Sexo"> <br/>
         direccion: <input type="text" name = "Direccion"> <br/>
-        centro de servicio: <input type="text" name = "CDS"> <br/>
+        centro de servicio(1 a 5): <input type="text" name = "CDS"> <br/>
         motivo de la consulta: <input type="text" name = "Mot"> <br/>
         medico que atendio: <input type="text" name = "Medico"> <br/>
         fecha: <input type="text" name = "Fecha"> <br/>
